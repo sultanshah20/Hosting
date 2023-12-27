@@ -4,6 +4,6 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 import com.example.mongodb.mongodb.model.Library;
 
-public interface LibraryRepo extends MongoRepository<Library,String>{
+public interface LibraryRepo extends MongoRepository<Library,Integer>{
     
 }

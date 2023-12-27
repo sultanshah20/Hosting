@@ -19,5 +19,10 @@ public class LibraryController {
 
         return libraryRepo.save(param);
     }
+    @GetMapping("/test")
+    public String getMethodName() {
+        return  "working....";
+    }
+    
 
 }
