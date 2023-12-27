@@ -1,0 +1,4 @@
+com\example\mongodb\mongodb\model\Library.class
+com\example\mongodb\mongodb\repo\LibraryRepo.class
+com\example\mongodb\mongodb\MongodbApplication.class
+com\example\mongodb\mongodb\controller\LibraryController.class
